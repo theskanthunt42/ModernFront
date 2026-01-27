@@ -14,6 +14,6 @@ Anyway, in order to see how bad CSG is doing here I've decided to attach a [mini
 And what it brings is some I2C connection to my Pi for some stats to read, and with that plus A HUGE MERGER OF MY OTHER THREE PREVIOUS PROJECTS with something more blended in it, I've created:  
 [SimpUPSMon](https://gist.github.com/theskanthunt42/02de49d7190eb4a0a867d66c2e532e10) - *Some readings from my Raspberry Pi and it's "UPS"*(sic)  
 Which read some status from the Pi, some status from your browser, and *bang*！  
-Oh and I hand wrote a basic HTTP server for this, just becauz I am lazy...
+Oh and I hand wrote a basic HTTP server for this, just becauz I am lazy... so I just grab socket and do some rough TCP send thing... and called it a server.
 # TL;DR
 Go see for yourself at(and your IP address + headers): [SimpUPSMonSample](https://front.the42.info/rpimon)
