@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>I made something to monitor my Raspberry Pi 3 at home. | the42Front</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="I made something to monitor my Raspberry Pi 3 at home." />
+<meta name="author" content="the42game" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="And you could have a peek at it as well! Yes I am still using the OG Raspberry Pi 3b" />
+<meta property="og:description" content="And you could have a peek at it as well! Yes I am still using the OG Raspberry Pi 3b" />
+<link rel="canonical" href="https://front.the42.info/2026/01/27/simp-rpi-ups-mon.html" />
+<meta property="og:url" content="https://front.the42.info/2026/01/27/simp-rpi-ups-mon.html" />
+<meta property="og:site_name" content="the42Front" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-01-27T00:00:00+08:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="I made something to monitor my Raspberry Pi 3 at home." />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"the42game"},"dateModified":"2026-01-27T00:00:00+08:00","datePublished":"2026-01-27T00:00:00+08:00","description":"And you could have a peek at it as well! Yes I am still using the OG Raspberry Pi 3b","headline":"I made something to monitor my Raspberry Pi 3 at home.","mainEntityOfPage":{"@type":"WebPage","@id":"https://front.the42.info/2026/01/27/simp-rpi-ups-mon.html"},"url":"https://front.the42.info/2026/01/27/simp-rpi-ups-mon.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://front.the42.info/feed.xml" title="the42Front" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">the42Front</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/friends-of-the42/">Friends</a><a class="page-link" href="/motw/">MotW</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">I made something to monitor my Raspberry Pi 3 at home.</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2026-01-27T00:00:00+08:00" itemprop="datePublished">Jan 27, 2026
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">the42game</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h1 id="context">Context</h1>
+<p>So I had this little Raspberry Pi 3 sitting around which I bought back in 2016.<br />
+Yes I am still using it, why not?<br />
+So recently I decided to let it run something instead of biting dust at home I installed DietPi on it and use it as a real server for some thing that I would actually use everyday, being slow is okay too, it’s fun innit?<br />
+Anyway, in order to see how bad CSG is doing here I’ve decided to attach a <a href="https://github.com/linshuqin329/UPS-18650">mini UPS</a> to it, which pretty much is a block that sits underneath your Pi with two 18650 batteries connected to a <a href="https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17040-MAX17041.pdf">MAX17041</a>.<br />
+And what it brings is some I2C connection to my Pi for some stats to read, and with that plus A HUGE MERGER OF MY OTHER THREE PREVIOUS PROJECTS with something more blended in it, I’ve created:<br />
+<a href="https://gist.github.com/theskanthunt42/02de49d7190eb4a0a867d66c2e532e10">SimpUPSMon</a> - <em>Some readings from my Raspberry Pi and it’s “UPS”</em>(sic)<br />
+Which read some status from the Pi, some status from your browser, and <em>bang</em>！</p>
+
+<h1 id="tldr">TL;DR</h1>
+<p>Go see for yourself at(and your IP address + headers): <a href="https://front.the42.info/rpimon">SimpUPSMonSample</a></p>
+
+  </div><a class="u-url" href="/2026/01/27/simp-rpi-ups-mon.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">the42Front</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">the42game</li><li><a class="u-email" href="mailto:kabs@the42.info">kabs@the42.info</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/theskanthunt42"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">theskanthunt42</span></a></li><li><a href="https://www.twitter.com/42lzmr"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">42lzmr</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Rebuilds after rebuilds. This time modernize.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

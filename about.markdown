@@ -33,7 +33,8 @@ This site was last generated on: {{ site.time }}
 with Jekyll version : {{ jekyll.version }}  
 and the following `JEKYLL_ENV`: {{ jekyll.environment}}
 
+Oh and btw, if you are curious about one of my little server's status and your IP address: [Raspberry Pi Monitor][rpimon]
 
 [jekyll-organization]: https://github.com/jekyll
 [previously]: https://front.the42.info/myweb/about.htm
-
+[rpimon]: https://front.the42.info/rpimon
