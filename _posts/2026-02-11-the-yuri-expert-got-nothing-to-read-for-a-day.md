@@ -6,7 +6,7 @@ tags: thoughts
 author: the42game
 description: But at least I got a Optane M10 16GB NVMe drive inside my uConsole up and running.
 ---
-## uConsole NvME Upgrade Kit
+## uConsole NVMe Upgrade Kit
 So I bought [this](https://hackergadgets.com/products/uconsole-upgrade-kit?variant=47038702682286).  
 `uConsole Upgrade Kit - Adding NVMe SSD/RJ45 Ethernet/ USB 3.0/AC1200 WiFi`  
 As the title suggest, now I got NVMe SSD and RJ45 GbE and two USB3.0 outta my Raspberry Pi CM5 in that uConsole.  
