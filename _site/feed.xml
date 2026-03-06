@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://front.the42.info/feed.xml" rel="self" type="application/atom+xml" /><link href="https://front.the42.info/" rel="alternate" type="text/html" /><updated>2026-02-28T22:41:22+08:00</updated><id>https://front.the42.info/feed.xml</id><title type="html">the42Front</title><subtitle>Rebuilds after rebuilds. This time modernize.</subtitle><author><name>the42game</name></author><entry><title type="html">Made my brain spins, and here are the results.</title><link href="https://front.the42.info/2026/02/28/simply-thoughts.html" rel="alternate" type="text/html" title="Made my brain spins, and here are the results." /><published>2026-02-28T00:00:00+08:00</published><updated>2026-02-28T00:00:00+08:00</updated><id>https://front.the42.info/2026/02/28/simply-thoughts</id><content type="html" xml:base="https://front.the42.info/2026/02/28/simply-thoughts.html"><![CDATA[<h2 id="i-hate-going-to-school">I hate going to school…</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://front.the42.info/feed.xml" rel="self" type="application/atom+xml" /><link href="https://front.the42.info/" rel="alternate" type="text/html" /><updated>2026-03-06T17:34:56+08:00</updated><id>https://front.the42.info/feed.xml</id><title type="html">the42Front</title><subtitle>Rebuilds after rebuilds. This time modernize.</subtitle><author><name>the42game</name></author><entry><title type="html">I’ve almost forgot how boring college life could be, and now I’ve found it back again.</title><link href="https://front.the42.info/2026/03/03/boring-days-ahead.html" rel="alternate" type="text/html" title="I’ve almost forgot how boring college life could be, and now I’ve found it back again." /><published>2026-03-03T00:00:00+08:00</published><updated>2026-03-03T00:00:00+08:00</updated><id>https://front.the42.info/2026/03/03/boring-days-ahead</id><content type="html" xml:base="https://front.the42.info/2026/03/03/boring-days-ahead.html"><![CDATA[<h2 id="yet-another-boring-day-at-school">Yet another boring day at school</h2>
+<p>So sure, it has been three days since this term had started, and yet I’ve got nothing to do, like at all.<br />
+I got classes from 8am to 5.30pm today, and I am writing this during the last class of the day and it’s boring as hell this class btw.<br />
+And I’ve also got those kinda class that blame on victims as if they are the one that started all this crap. And I just wireguard-ed back to home and play with my Proxmox VE and ignore all the propagandas, and I still ignored her even when she knocked on the desk I was sitting on for me using laptops during class lmfao.<br />
+Oh and ughh the whole shit about classmate relationship</p>
+
+<p>Updates from the future: It got fix somehow.</p>]]></content><author><name>the42game</name></author><category term="posts" /><category term="thoughts" /><summary type="html"><![CDATA[How could it be so boring...]]></summary></entry><entry><title type="html">Made my brain spins, and here are the results.</title><link href="https://front.the42.info/2026/02/28/simply-thoughts.html" rel="alternate" type="text/html" title="Made my brain spins, and here are the results." /><published>2026-02-28T00:00:00+08:00</published><updated>2026-02-28T00:00:00+08:00</updated><id>https://front.the42.info/2026/02/28/simply-thoughts</id><content type="html" xml:base="https://front.the42.info/2026/02/28/simply-thoughts.html"><![CDATA[<h2 id="i-hate-going-to-school">I hate going to school…</h2>
 <p>I am typing this on my beloved 23.8 inch 4K HiDPI display with my Mac mini which means… I am sitting in the dorm right now.<br />
-The worst things is not that I have to wake up at 7am every morning in the next 4mos which I am actually okay aboutbut the fact that someone I hate still teaches me, like wtf, I really hope I could appeal to the academic affairs office and I mean it, being a person that use English as a second language that are able to watch UK House of Commons PMQs without any subtitles or BSL(idk how to read BSL tbh), LIVE, ON YOUTUBE, without a problem and know exactly how those politicians attacking each other, and know the agenda of the day, I still need to go through another course on English listening and speaking? You joking? I got higher scores than that bastrd in both IELTS Listening Section and Speaking Section, and we’re the same on average. I went abroad on my own speaking only English and got no prob with talking to others online using English as well.<br />
-Let HER to teach me? Oh what a disgrace, to me.<br />
-I won’t forgot all her shitty talks behind my back about me.<br />
+The worst things is not that I have to wake up at 7am every morning in the next 4mos which I am actually okay about…<br />
+But those propaganda classes… fine…  fuck it…</p>
+
+<p>That asides,<br />
 <em>just watch me.</em> - famous Canadian PM quote.</p>
 
 <h2 id="my-mental-health">My mental health.</h2>
@@ -176,23 +183,4 @@ And what it brings is some I2C connection to my Pi for some stats to read, and w
 Which read some status from the Pi, some status from your browser, and <em>bang</em>！<br />
 Oh and I hand wrote a basic HTTP server for this, just becauz I am lazy… so I just grab socket and do some rough TCP send thing… and called it a server.</p>
 <h1 id="tldr">TL;DR</h1>
-<p>Go see for yourself at(and your IP address + headers): <a href="https://front.the42.info/rpimon">SimpUPSMonSample</a></p>]]></content><author><name>the42game</name></author><category term="posts" /><category term="thoughts" /><category term="projects" /><summary type="html"><![CDATA[And you could have a peek at it as well! Yes I am still using the OG Raspberry Pi 3b]]></summary></entry><entry><title type="html">No Place Is My Home.</title><link href="https://front.the42.info/2026/01/22/no-place-is-my-home.html" rel="alternate" type="text/html" title="No Place Is My Home." /><published>2026-01-22T00:00:00+08:00</published><updated>2026-01-22T00:00:00+08:00</updated><id>https://front.the42.info/2026/01/22/no-place-is-my-home</id><content type="html" xml:base="https://front.the42.info/2026/01/22/no-place-is-my-home.html"><![CDATA[<h1 id="pov-youre-the-only-one-at-home-who-speaks-english-fluently-and-would-fact-check-all-the-things-youve-read-on-the-internet-and-dont-doom-scrolling-on-douyinweixins-brainwash-content-all-the-time">POV: You’re the only one at home who speaks English fluently and would fact-check all the things you’ve read on the internet and don’t doom-scrolling on Douyin/WeiXin’s brainwash content all the time.</h1>
-
-<p>What I am dealing with every single day: 
-<img src="/assets/imgs/shit-place.png" alt="Chat this is real." /></p>
-
-<p>No Place is My Home really.</p>
-
-<p>But whatever, I will just stop here, it’s not like any of you could really understand or relate to any of this anyway, you all frickin’ assholes.</p>
-
-<p>Yeah, I am weak, not good enough, and I don’t have the dedications to work my way up in this situation.<br />
-I am lazy yeah sure.</p>
-
-<p>Fuck all of you.</p>
-
-<p>Me irl(Except the looks of this cutie):</p>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">exams <a href="https://t.co/mH3tUIQTHL">pic.twitter.com/mH3tUIQTHL</a></p>&mdash; ✩ riku (@thecutemizuki) <a href="https://twitter.com/thecutemizuki/status/2014582785701208553?ref_src=twsrc%5Etfw">January 23, 2026</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>Gotta take more pills tonight huh.</p>]]></content><author><name>the42game</name></author><category term="posts" /><category term="thoughts" /><summary type="html"><![CDATA[I really can't relate to anyone, or rely on anyone, or feel at home when at home, I hate everyone, myself included.]]></summary></entry></feed>
+<p>Go see for yourself at(and your IP address + headers): <a href="https://front.the42.info/rpimon">SimpUPSMonSample</a></p>]]></content><author><name>the42game</name></author><category term="posts" /><category term="thoughts" /><category term="projects" /><summary type="html"><![CDATA[And you could have a peek at it as well! Yes I am still using the OG Raspberry Pi 3b]]></summary></entry></feed>

@@ -8,9 +8,10 @@ description: Da Sind Wir Aber Immer Noch.
 ---
 ## I hate going to school...
 I am typing this on my beloved 23.8 inch 4K HiDPI display with my Mac mini which means... I am sitting in the dorm right now.  
-The worst things is not that I have to wake up at 7am every morning in the next 4mos which I am actually okay aboutbut the fact that someone I hate still teaches me, like wtf, I really hope I could appeal to the academic affairs office and I mean it, being a person that use English as a second language that are able to watch UK House of Commons PMQs without any subtitles or BSL(idk how to read BSL tbh), LIVE, ON YOUTUBE, without a problem and know exactly how those politicians attacking each other, and know the agenda of the day, I still need to go through another course on English listening and speaking? You joking? I got higher scores than that bastrd in both IELTS Listening Section and Speaking Section, and we're the same on average. I went abroad on my own speaking only English and got no prob with talking to others online using English as well.  
-Let HER to teach me? Oh what a disgrace, to me.  
-I won't forgot all her shitty talks behind my back about me.  
+The worst things is not that I have to wake up at 7am every morning in the next 4mos which I am actually okay about...  
+But those propaganda classes... fine...  fuck it...  
+
+That asides,  
 *just watch me.* - famous Canadian PM quote.
 
 ## My mental health.
