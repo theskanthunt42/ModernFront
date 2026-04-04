@@ -50,4 +50,32 @@ Just a complete waste of time tho, not her fault, by our schools' fault, those t
 
 So we took this class lectured by a idk PhD of Data Science in HKU, for a topic I will just laugh about at, and her English accent was straight out bad, even for SEA English or Hong Kong English, even I could barely understand what the hell she was trying to talk about, and everything she saids, from my guessing, translated from Cantonese to English in her head so the logic is still rather... Chinese, you get the vibe, tldr, not being a Chinese/Cantonese user you won't be able to understand it.  
 
-Quite funny enough tho, 
+Quite funny enough tho, I played Touhou on that PC so... whatever, and Extreme Tux Racer.  
+
+## DINNER COURSE
+
+Nothing to write home about... just normal Cantonese Resturant serving Dim Sun during the day serving dinner...  
+After a EXHAUSTING day it just taste so good I have nothing to complain about.  
+
+## Victoria Harbor on that Tsim Sha Tsui side that are suppose to be located "Right next to HKU Campus" according to an idiot, and the subsequent shitty "survey" we need to conduct.
+
+Right after the dinner we hopped onto the bus, again. We are now heading to Tsim Sha Tsui, that according to some specific tour guide, is "just a few minutes drive from here", remember that we're still in Sai Wan (aka 500m away from liason office) at this point, an I was like: Sure...  
+
+And I am lazy to descibe what we did there but in brief: Annoying College Student being force to conduct field surveys and ofc I did nothing.  
+
+Set off to hotel is the only option now to call it a day.
+
+## Hotel
+
+Kinda nice no complaints, albeit I have to share a double bed room with another stranger in the group albeit not all that of a stranger but still a stranger so whatever.  
+At least now I could just lie on bed and watch BBC World and NHK World Japan and ABC via satellite after a quick shower, ofc why not, which is ever better.
+
+## Any conclusions of the day?
+
+Nope, I write the last 50% of this JOURNAL a whole week later and you could see why, exhausting as hell, boring, and the fact that I really hate for being treat like an idiot.  
+
+I spent like almost 3 days after this mostly in sleep mode albeit ofc I still attended class but just sleep on the class which is something that I mostly refuse to do but I am so sleepy I can't...  
+
+There will be an Day 2 on this but for now, let's call it Day 1 done, as a record.  
+
+
