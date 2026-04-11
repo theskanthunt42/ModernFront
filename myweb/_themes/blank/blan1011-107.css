@@ -1,0 +1,158 @@
+.mstheme     { nav-banner-image: url(ablbnr.gif); separator-image: url(ablrule.gif); 
+               list-image-1: url(ablbull1.gif); list-image-2: 
+               url(ablbull2.gif); list-image-3: url(ablbull3.gif); 
+               navbutton-horiz-pushed: url(blhbp.gif); 
+               navbutton-horiz-normal: url(blhbs.gif); 
+               navbutton-horiz-hovered: url(blhbh.gif); 
+               navbutton-vert-pushed: url(blvbp.gif); navbutton-vert-normal: 
+               url(blvbs.gif); navbutton-vert-hovered: url(blvbh.gif); 
+               navbutton-home-normal: url(blhomes.gif); 
+               navbutton-home-hovered: url(blhomeh.gif); 
+               navbutton-home-pushed: url(blhomes.gif); navbutton-up-normal: 
+               url(blups.gif); navbutton-up-hovered: url(bluph.gif); 
+               navbutton-up-pushed: url(blups.gif); navbutton-prev-normal: 
+               url(blprevs.gif); navbutton-prev-hovered: url(blprevh.gif); 
+               navbutton-prev-pushed: url(blprevs.gif); 
+               navbutton-next-normal: url(blnexts.gif); 
+               navbutton-next-hovered: url(blnexth.gif); 
+               navbutton-next-pushed: url(blnexts.gif) }
+.mstheme-bannertxt { font-size: 6; color: rgb(51,0,153); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-horiz-navtxt { font-size: 2; color: rgb(0,0,204); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-vert-navtxt { font-size: 2; color: rgb(51,0,153); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxthome { font-size: 1; color: rgb(0,0,204); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtup { font-size: 1; color: rgb(0,0,204); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtprev { font-size: 1; color: rgb(0,0,204); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtnext { font-size: 1; color: rgb(0,0,204); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+ul           { list-style-image: url('ablbull1.gif') }
+ul ul        { list-style-image: url('ablbull2.gif') }
+ul ul ul     { list-style-image: url('ablbull3.gif') }
+a:link       { color: rgb(153,153,153) }
+a:visited    { color: rgb(153,0,0) }
+a:active     { color: rgb(102,102,102) }
+body         { color: rgb(0,0,0); background-color: rgb(255,255,255) }
+h1           { color: rgb(0,0,0) }
+h2, marquee  { color: rgb(0,0,0) }
+h3           { color: rgb(0,0,0) }
+h4           { color: rgb(0,0,0) }
+h5           { color: rgb(0,0,0) }
+h6           { color: rgb(0,0,0) }
+button       { background-color: rgb(0,0,0); color: white; border-color: rgb(204,204,204) }
+label, .MSTHEME-LABEL { color: rgb(0,0,0) }
+textarea     { color: black; border-color: rgb(102,102,102) }
+fieldset     { color: black; border-color: rgb(102,102,102) }
+legend       { color: rgb(0,0,0) }
+select       { color: black; border-color: rgb(102,102,102) }
+table        { table-border-color-light: rgb(204,204,204); table-border-color-dark: 
+               rgb(102,102,102); color: rgb(0,0,0); border-color: 
+               rgb(102,102,102) }
+caption      { color: rgb(0,0,0) }
+th           { color: rgb(0,0,0) }
+hr           { color: rgb(0,0,0) }
+td           { border-color: rgb(102,102,102) }
+.mstheme-bannertxt a:active { color: rgb(0,0,0) }
+.mstheme-bannertxt a:link { color: rgb(0,0,0) }
+.mstheme-bannertxt a:visited { color: rgb(0,0,0) }
+.mstheme-bannertxt-g { font-size: 6; color: rgb(0,0,0); background-image: url('blbnr.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-bannertxt-g a:active { color: rgb(0,0,0) }
+.mstheme-bannertxt-g a:link { color: rgb(0,0,0) }
+.mstheme-bannertxt-g a:visited { color: rgb(0,0,0) }
+.mstheme-bannertxt-s { font-size: 6; color: rgb(0,0,0); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-bannertxt-s a:active { color: rgb(0,0,0) }
+.mstheme-bannertxt-s a:link { color: rgb(0,0,0) }
+.mstheme-bannertxt-s a:visited { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt a:active { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt a:link { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt a:visited { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-g { font-size: 2; color: rgb(0,0,0); background-image: url('blphb.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-horiz-navtxt-g a:active { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-g a:link { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-g a:visited { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-gs { font-size: 2; color: rgb(0,0,0); background-image: url('blphbp.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-horiz-navtxt-gs a:active { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-gs a:link { color: rgb(0,0,0) }
+.mstheme-horiz-navtxt-gs a:visited { color: rgb(0,0,0) }
+.mstheme-navtxthome a:active { color: rgb(0,0,0) }
+.mstheme-navtxthome a:link { color: rgb(0,0,0) }
+.mstheme-navtxthome a:visited { color: rgb(0,0,0) }
+.mstheme-navtxthome-g { font-size: 1; color: rgb(0,0,0); background-image: url('blhome.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxthome-g a:active { color: rgb(0,0,0) }
+.mstheme-navtxthome-g a:link { color: rgb(0,0,0) }
+.mstheme-navtxthome-g a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtnext a:active { color: rgb(0,0,0) }
+.mstheme-navtxtnext a:link { color: rgb(0,0,0) }
+.mstheme-navtxtnext a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtnext-g { font-size: 1; color: rgb(0,0,0); background-image: url('blnext.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtnext-g a:active { color: rgb(0,0,0) }
+.mstheme-navtxtnext-g a:link { color: rgb(0,0,0) }
+.mstheme-navtxtnext-g a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtprev a:active { color: rgb(0,0,0) }
+.mstheme-navtxtprev a:link { color: rgb(0,0,0) }
+.mstheme-navtxtprev a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtprev-g { font-size: 1; color: rgb(0,0,0); background-image: url('blprev.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtprev-g a:active { color: rgb(0,0,0) }
+.mstheme-navtxtprev-g a:link { color: rgb(0,0,0) }
+.mstheme-navtxtprev-g a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtup a:active { color: rgb(0,0,0) }
+.mstheme-navtxtup a:link { color: rgb(0,0,0) }
+.mstheme-navtxtup a:visited { color: rgb(0,0,0) }
+.mstheme-navtxtup-g { font-size: 1; color: rgb(0,0,0); background-image: url('blup.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-navtxtup-g a:active { color: rgb(0,0,0) }
+.mstheme-navtxtup-g a:link { color: rgb(0,0,0) }
+.mstheme-navtxtup-g a:visited { color: rgb(0,0,0) }
+.mstheme-topbar-font a:active { color: rgb(0,0,0) }
+.mstheme-topbar-font a:link { color: rgb(0,0,0) }
+.mstheme-topbar-font a:visited { color: rgb(0,0,0) }
+.mstheme-topbar-font-g { font-size: 1; color: rgb(0,0,0); background-image: url('blglb.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-topbar-font-g a:active { color: rgb(0,0,0) }
+.mstheme-topbar-font-g a:link { color: rgb(0,0,0) }
+.mstheme-topbar-font-g a:visited { color: rgb(0,0,0) }
+.mstheme-vert-navtxt a:active { color: rgb(0,0,0) }
+.mstheme-vert-navtxt a:link { color: rgb(0,0,0) }
+.mstheme-vert-navtxt a:visited { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-g { font-size: 2; color: rgb(0,0,0); background-image: url('blpvb.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-vert-navtxt-g a:active { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-g a:link { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-g a:visited { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-gs { font-size: 2; color: rgb(0,0,0); background-image: url('blpvbp.gif'); 
+               font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+.mstheme-vert-navtxt-gs a:active { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-gs a:link { color: rgb(0,0,0) }
+.mstheme-vert-navtxt-gs a:visited { color: rgb(0,0,0) }
+.mstheme     { navbutton-background-color: rgb(255,255,255); top-bar-button: url(blglb.gif) }
+.mstheme-topbar-font { font-size: 1; color: rgb(0,0,0); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+body         { background-image: url('blbkgnd.gif'); font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+h1           { font-weight: normal; font-style: normal; font-size: 24pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+h2           { font-weight: normal; font-style: normal; font-size: 18pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+h3           { font-weight: normal; font-style: normal; font-size: 14pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+h4           { font-weight: normal; font-style: normal; font-size: 12pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+h5           { font-weight: normal; font-style: normal; font-size: 10pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+h6           { font-weight: normal; font-style: normal; font-size: 8pt; font-family: 
+               ‚l‚r ‚oƒSƒVƒbƒN }
+button       { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN; 
+               border-style: solid; border-width: 1pt }
+label, .MSTHEME-LABEL { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+textarea     { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN; 
+               border-style: solid; border-width: 1pt }
+fieldset     { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN; 
+               border-style: solid; border-width: 1pt }
+legend       { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+select       { font-size: 8pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN; 
+               border-style: solid; border-width: 1pt }
+table        { font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+caption      { font-size: 14pt; font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+th           { font-style: normal; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
+marquee      { font-size: 14pt; font-family: ‚l‚r ‚oƒSƒVƒbƒN }
